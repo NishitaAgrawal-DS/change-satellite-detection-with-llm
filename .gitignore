@@ -1,20 +1,6 @@
-# Python cache
 __pycache__/
-*.pyc
-
-# Data
 data/
-
-# Models
 models/
+outputs/
 *.pth
 *.pt
-
-# Outputs
-outputs/
-
-# Streamlit cache
-.streamlit/
-
-# OS files
-.DS_Store
