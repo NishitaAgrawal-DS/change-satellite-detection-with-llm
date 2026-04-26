@@ -58,7 +58,7 @@ Due to size constraints, dataset and model weights are hosted externally.
 
 ### 🔗 Download Links
 
-* **Dataset:** https://drive.google.com/drive/folders/1y5SKtV6yU4baV6xUI9oVjBFus_MamAG9?usp=sharing
+* **Dataset:** Landsat Dataset website
 * **Model Weights:** https://drive.google.com/drive/folders/198TdaaxOBEZ7vq0-uqGp5ckduBkfQ51B?usp=sharing
 
 ---
